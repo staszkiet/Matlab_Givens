@@ -1,7 +1,4 @@
 function [l, err, i] = P2Z21_SZA_Eigenvalue(x, A, eps, it)
-% Projekt 2, Zadanie 21
-% Stanisław Zaprzalski, 327415
-%
 % Przybliżanie największej (co do wartości bezwzględnej) wartości własnej
 % pięcioprzekątniowej, symetrycznej macierzy A ∈ R^(n x n). W pierwszym
 % kroku macierz zostaje przekształcona do postaci trójprzekątniowej przy
