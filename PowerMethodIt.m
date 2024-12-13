@@ -1,6 +1,4 @@
 function[x, err] = PowerMethodIt(x, x1, x2)
-% Projekt 2, Zadanie 21
-% Stanisław Zaprzalski, 327415
 %
 % Funkcja wykonuje iterację metody potęgowej dla macierzy A, która jest
 % trójdiagonalna i symetryczna
