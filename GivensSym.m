@@ -1,6 +1,4 @@
 function[A]= GivensSym(A, i, j)
-% Projekt 2, Zadanie 21
-% Stanisław Zaprzalski, 327415
 %
 % Funkcja przyjmuje symetryczną macierz i przy pomocy obrotów Givensa
 % zeruje elementy na pozycjach (i, j) i (j, i) w macierzy A. i~=j.
