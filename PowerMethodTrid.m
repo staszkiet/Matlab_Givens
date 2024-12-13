@@ -1,6 +1,4 @@
 function[l, err, i] = PowerMethodTrid(A, x, eps, it)
-% Projekt 2, Zadanie 21
-% Stanisław Zaprzalski, 327415
 %
 % Funkcja korzystając z metody potęgowej z normowaniem znajduje dominującą
 % wartość własną macierzy symetrycznej, trójdiagonalnej.
