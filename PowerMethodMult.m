@@ -1,6 +1,4 @@
 function[Av] = PowerMethodMult(x, x1, x2)
-% Projekt 2, Zadanie 21
-% Stanisław Zaprzalski, 327415
 %
 % Funkcja wykonuje mnożenie wektora przez macierz trójdiagonalną,
 % symetryczną
