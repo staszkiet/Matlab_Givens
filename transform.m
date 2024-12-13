@@ -1,6 +1,4 @@
 function[A]= transform(A)
-% Projekt 2, Zadanie 21
-% Stanisław Zaprzalski, 327415
 %
 % Funkcja przy pomocy obrotów Givensa zamienia symetryczną,
 % pięcioprzekątniową macierz, na macierz trójdiagonalną
